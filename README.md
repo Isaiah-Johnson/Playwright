@@ -1,4 +1,4 @@
-# Playwright Project
+# Playwright Projects
 
 ## Introduction
 
